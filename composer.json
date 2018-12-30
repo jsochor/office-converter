@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": "^7.0",
-        "symfony/process": "^3.3",
+        "symfony/process": "^4.1",
         "spatie/temporary-directory": "^1.0.0"
     },
     "require-dev": {
